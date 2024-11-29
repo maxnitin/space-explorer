@@ -1,7 +1,14 @@
 body {
     background-color: black;
+    background: linear-gradient(#202094,black);
+    background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover;
     color: white;
     font-size: 2em;
     text-align: center;
-    background: linear-gradient(rgb(32, 14, 18), rgb(10, 43, 192));
+    
+}
+a:visited,a  {
+    color: aliceblue;
 }
